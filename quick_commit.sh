@@ -1,3 +1,3 @@
 git add .
-git commit -m "na"
+git commit -m "minor changes"
 git push
